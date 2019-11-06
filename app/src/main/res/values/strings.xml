@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perido</string>
+    <string name="settings_folder_default">isDefaultFolder</string>
+    <string name="settings_testing">isTesting</string>
+    <string name="ui_testing">Mode: Testing</string>
+    <string name="ui_prod">Mode: Production</string>
+    <string name="ui_settings_mode">Enable Testing</string>
+    <string name="ui_settings_title">Settings</string>
+    <string name="ui_settings_folder">Save to Perido folder</string>
+    <string name="ui_settings_section">Configuration</string>
+    <string name="ui_home_title">Perido</string>
+    <string name="ui_home_mode">Mode</string>
+</resources>
