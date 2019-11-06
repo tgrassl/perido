@@ -24,7 +24,7 @@ public class SplashActivity extends AppCompatActivity {
         verifyPermissions();
     }
 
-    private void verifyPermissions(){
+    private void verifyPermissions() {
         Log.d(TAG, "verifyPermissions: asking user for permissions");
         String[] permissions = {Manifest.permission.READ_EXTERNAL_STORAGE,
                 Manifest.permission.WRITE_EXTERNAL_STORAGE,
@@ -38,7 +38,7 @@ public class SplashActivity extends AppCompatActivity {
                 && ContextCompat.checkSelfPermission(this.getApplicationContext(),
                 permissions[2]) == PackageManager.PERMISSION_GRANTED
                 && ContextCompat.checkSelfPermission(this.getApplicationContext(),
-                permissions[3]) == PackageManager.PERMISSION_GRANTED){
+                permissions[3]) == PackageManager.PERMISSION_GRANTED) {
             Intent i = new Intent(SplashActivity.this, HomeActivity.class);
             startActivity(i);
         } else {

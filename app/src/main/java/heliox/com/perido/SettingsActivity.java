@@ -12,7 +12,7 @@ import android.widget.Switch;
 
 public class SettingsActivity extends AppCompatActivity {
 
-    public static final String PREFS = "PeridoPrefs" ;
+    public static final String PREFS = "PeridoPrefs";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
