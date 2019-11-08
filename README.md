@@ -11,8 +11,6 @@ First, clone the repo:
 
 ### Android Studio (Recommended)
 
-(These instructions were tested with Android Studio version 2.2.2, 2.2.3, 2.3, and 2.3.2)
-
 * Open Android Studio and select `File->Open...` or from the Android Launcher select `Import project (Eclipse ADT, Gradle, etc.)` and navigate to the root directory of your project.
 * Select the directory or drill in and select the file `build.gradle` in the cloned repo.
 * Click 'OK' to open the the project in Android Studio.
@@ -33,6 +31,6 @@ Connect an Android device to your development machine.
 
 ## License 
 Made for educational purposes only.  
-Code released under the [MIT License](https://github.com/tgrassl/observar/blob/master/LICENSE).  
+Code released under the [MIT License](https://github.com/tgrassl/perido/blob/master/LICENSE).  
 
 Enjoy ⭐️
