@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/nR54Jjk/perido-banner.png)
 
-Perido is an experimental implementation of [BEME](https://en.wikipedia.org/wiki/Beme_(app))'s camera technology but for taking point-of-view-pictures.
+Perido is an experimental implementation of [BEME](https://en.wikipedia.org/wiki/Beme_(app))'s camera technology but for taking point-of-view-pictures.  
 You can read more about the concept [here](https://patents.google.com/patent/US10306081B2/en?q=inc.&assignee=beme&oq=beme+inc.).
 
 ## Building the App
